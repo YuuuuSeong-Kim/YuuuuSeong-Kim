@@ -9,11 +9,11 @@
 > 수료 (2023.09~2024.04)
   - 유스레시피 프로젝트 참여 [[Github](https://github.com/beom324/finalProject)]
   - 기술 공부
-    - Back-end
+    - Back-end<br>
         Java, SpringFramework, Spring-Boot
-    - Front-end
+    - Front-end<br>
         HTML5, CSS3 , JavaScript, JQuery , Vue.Js , BootStrap
-    - Database
+    - Database<br>
         Oracle, MySQL
 
 ### 대한민국 육군 전술C4I 운용병
