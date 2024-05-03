@@ -7,8 +7,8 @@
 ## Experience
 ### 쌍용강북교육센터
 > 수료 (2023.09~2024.04)
-  - 유스레시피 프로젝트 참여[[Github](https://github.com/beom324/finalProject)]
-  - 아래의 기술 공부
+  - 유스레시피 프로젝트 참여 [[Github](https://github.com/beom324/finalProject)]
+  - 기술 공부
     - Back-end
         Java, SpringFramework, Spring-Boot
     - Front-end
