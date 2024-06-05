@@ -38,8 +38,6 @@
   - ATCIS 사용자 단말기 장애조치, 유지보수
   - 예하부대 서버 관제
 
-## Contact
-
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuuuuSeong-Kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
