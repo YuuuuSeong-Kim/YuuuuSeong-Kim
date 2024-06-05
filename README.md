@@ -29,15 +29,14 @@
     - 별점과 댓글 등록, 삭제
     - 재료(상품) 등록, 상세
 
+### 한국방송통신대학교
+> 컴퓨터과학과 졸업
+
 ### 대한민국 육군 전술C4I 운용병
 > 만기전역 (2019.02~2020.09)
   - 군단급 ATCIS APP, DB 서버 관리
   - ATCIS 사용자 단말기 장애조치, 유지보수
   - 예하부대 서버 관제
-
-### 한국방송통신대학교
-> 컴퓨터과학과 졸업
-
 
 ## Contact
 <a href="mailto:kys980611@gmail.com"><img src="https://img.shields.io/badge/|%20kys980611@gmail.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
