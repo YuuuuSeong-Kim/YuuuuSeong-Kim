@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=364765&height=300&section=header&text=YUSEONG%20KIM&fontSize=90&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=venom&color=364765&height=300&section=header&text=YUSEONG%20KIM&fontSize=90)
 
 ## Experience
 ### 쌍용강북교육센터
