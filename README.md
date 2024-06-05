@@ -1,19 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:83C9E7,100:4B89DC&height=250&section=header&text=Welcome!👾&fontSize=70&fontColor=E4F3FA&desc=YUSEONG-KIM's%20GitHub&descAlignY=55&descAlign=60&fontAlignY=35)
+## 🛠️ Tech Stacks
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/><br>
+  <img src="https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazon%20ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazon%20rds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white"/>
+</div>
 
-## Experience
+## 🕓 Experience
 ### 쌍용강북교육센터
 > 수료 (2023.09~2024.04)
   - 유스레시피 프로젝트 참여 [[Github](https://github.com/beom324/finalProject)]
     - 레시피 등록, 수정, 삭제, 상세
     - 별점과 댓글 등록, 삭제
     - 재료(상품) 등록, 상세
-  - 기술 공부
-    - Back-end<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;Java, SpringFramework, Spring-Boot
-    - Front-end<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS3 , JavaScript, JQuery , Vue.Js , BootStrap
-    - Database<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;Oracle, MySQL
 
 ### 대한민국 육군 전술C4I 운용병
 > 만기전역 (2019.02~2020.09)
