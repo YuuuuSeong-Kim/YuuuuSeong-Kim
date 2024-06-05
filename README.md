@@ -39,7 +39,6 @@
   - 예하부대 서버 관제
 
 ## Contact
-<!--<a href="mailto:kys980611@gmail.com"><img src="https://img.shields.io/badge/|%20kys980611@gmail.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>-->
 
 <div align="center">
   
