@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:364765,100:88a0ce&height=250&section=header&text=Welcome!👾&fontSize=70&fontColor=dfe6f2&desc=YUSEONG-KIM's%20GitHub&descAlignY=55&descAlign=60&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:83C9E7,100:4B89DC&height=250&section=header&text=Welcome!👾&fontSize=70&fontColor=E4F3FA&desc=YUSEONG-KIM's%20GitHub&descAlignY=55&descAlign=60&fontAlignY=35)
 
 ## Experience
 ### 쌍용강북교육센터
