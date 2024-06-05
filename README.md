@@ -7,6 +7,7 @@
 </div>
 
 ## 🛠️ Tech Stacks
+<picture>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
@@ -17,6 +18,7 @@
   <img src="https://img.shields.io/badge/amazon%20ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/amazon%20rds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white"/>
 </div>
+</picture>
 
 ## 🕓 Experience
 ### 쌍용강북교육센터
