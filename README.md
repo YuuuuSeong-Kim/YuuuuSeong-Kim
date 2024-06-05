@@ -37,7 +37,7 @@
 
 
 ## Contact
-<div style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block;"><p style="padding-top:auto;padding-bottom:auto;display: inline-block;"> : kys980611@gmail.com</p></div>
+<a href="mailto:kys980611@gmail.com"><img src="https://img.shields.io/badge/|%20kys980611@gmail.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <div align="center">
   
