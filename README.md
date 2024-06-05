@@ -37,28 +37,10 @@
 
 
 ## Contact
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kys980611@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<div style="padding-top:auto;padding-bottom:auto;"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"> : kys980611@gmail.com</div>
 
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuuuuSeong-Kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
-
-
-<script>
-function copy() {
-  // 복사문구값 가져오기
-  var copyTxt = document.getElementById("copyTxt");
-
-  // 복사문구 선택
-  copyTxt.select();
-  copyTxt.setSelectionRange(0, 99999); // Mobile 대응
-
-   // 복사
-  navigator.clipboard.writeText(copyTxt.value);
-
-  // 복사완료에 대해 Alert으로 띄우기
-  alert("복사되었습니다.");
-}
-</script>
