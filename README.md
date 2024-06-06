@@ -39,7 +39,7 @@
   - 예하부대 서버 관제
 
 ## Contact
-<a href="mailto:kysstudyonly@gmail.com"><img src="https://img.shields.io/badge/|%kysstudyonly@gmail.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:kysstudyonly@gmail.com"><img src="https://img.shields.io/badge/|%20kysstudyonly@gmail.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <div align="center">
   
