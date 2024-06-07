@@ -36,7 +36,7 @@
 > 만기전역 (2019.02~2020.09)
   - 군단급 ATCIS APP, DB 서버 관리
   - ATCIS 사용자 단말기 장애조치, 유지보수
-  - 예하부대 서버 관제
+  - 예하부대 서버 상태 관제 및 장애조치 지원
 
 ## Contact
 <a href="mailto:kysstudyonly@gmail.com"><img src="https://img.shields.io/badge/|%20kysstudyonly@gmail.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
