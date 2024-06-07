@@ -26,7 +26,7 @@
 > 수료 (2023.09~2024.04)
   - 유스레시피 프로젝트 참여 <a href="https://github.com/beom324/finalProject"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     - 레시피 등록, 수정, 삭제, 상세
-    - 별점과 댓글 등록, 삭제
+    - 별점+텍스트 댓글 등록, 삭제
     - 재료(상품) 등록, 상세
 
 ### 한국방송통신대학교
