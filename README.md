@@ -26,7 +26,8 @@
 > 수료 (2023.09~2024.04)
   - 유스레시피 프로젝트 참여 <a href="https://github.com/beom324/finalProject"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     #### 레시피 상세
-    - 레시피의 상세내용(요리 순서, 필요한 재료 등) 표시
+    - 레시피의 상세내용(요리순서, 필요한 재료 등) 표시
+    - 레시피 좋아요(위시리스트) 기능
     - 해당 레시피 카카오톡 공유 기능
     - 별점 평가와 텍스트로 구성된 댓글 기능
     - 해당 레시피의 선택한 재료 장바구니 담기(전부 담기 가능)
