@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:83C9E7,100:4B89DC&height=250&section=header&text=Welcome!👾&fontSize=70&fontColor=E4F3FA&desc=YUSEONG-KIM's%20GitHub&descAlignY=55&descAlign=60&fontAlignY=35)
 ## 👨‍💻 Introduce
 <div align="center">
-  안녕하세요! 개발자 준비생 김유성입니다!<br>
+  안녕하세요! 웹 개발자 김유성입니다!<br>
   무엇이든 만들거나, 사용법을 배워 풀어나가는 퍼즐을 좋아합니다.<br>
   부족한 부분을 더욱 배우고 싶습니다! 피드백 언제나 환영입니다!
 </div>
